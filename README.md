@@ -1,25 +1,31 @@
-# Welcome 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=180&section=header&text=Amon%20Amonov&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HamasakiBrain&theme=algolia&margin-w=0)](#)
-<br>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HamasakiBrain&theme=algolia&show_icons=true&hide_border=true&count_private=true)](#)
-<br>
-[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HamasakiBrain&theme=algolia&hide_border=true)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamasakiBrain&theme=algolia&show_icons=true&hide_border=true&layout=compact&langs_count=50)](#)
-<br>
-[![Profile views](https://gpvc.arturio.dev/HamasakiBrain)](#)<br>
-<!--
-**HamasakiBrain/HamasakiBrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+AMON+AMONOV;MY+SPECIALIZATION+===+WEB+DEVELOPMENT;MY+EXPERIENCE+%3E+2+YEARS+IN+PROGRAMMING)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">  
+  
+  <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=HamasakiBrain&theme=react-dark&hide_border=true&area=true&radius=7" />
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=HamasakiBrain&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="HamasakiBrain github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamasakiBrain&theme=algolia&show_icons=true&hide_border=true&layout=compact&langs_count=50" />
+  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamasakiBrain&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="HamasakiBrain github stats" />
+ 
+
+  <h3 > Main Skills </h3>
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,jquery,mysql,vue,vite,webpack,bootstrap" />
+
+  <h3> Tools </h3>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,nginx,figma,idea" />
+  
+  <h3> Other Knowledge </h3>
+  <img src="https://skillicons.dev/icons?i=python," />
+  
+ 
+
+  <h3> Contact </h3>
+  <a href="https:///el_kojer.t.me"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>

@@ -6,10 +6,10 @@
 
 <div align="center">  
   
-  <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=HamasakiBrain&theme=react-dark&hide_border=true&area=true&radius=7" />
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=HamasakiBrain&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="HamasakiBrain github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamasakiBrain&theme=algolia&show_icons=true&hide_border=true&layout=compact&langs_count=50" />
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamasakiBrain&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="HamasakiBrain github stats" />
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=HamasakiBrain&theme=react-dark&hide_border=true&area=true&radius=7" />
+  <img width="90%" height="auto" src="https://github-readme-stats.vercel.app/api?username=HamasakiBrain&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="HamasakiBrain github stats" /> 
+
+  <img height="auto" width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamasakiBrain&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="HamasakiBrain github stats" />
  
 
   <h3 > Main Skills </h3>

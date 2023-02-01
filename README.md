@@ -18,9 +18,7 @@
   <h3> Tools </h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,nginx,figma,idea" />
   
-  <h3> Other Knowledge </h3>
-  <img src="https://skillicons.dev/icons?i=python," />
-  
+
  
 
   <h3> Contact </h3>

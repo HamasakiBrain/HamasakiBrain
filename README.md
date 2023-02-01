@@ -13,7 +13,7 @@
  
 
   <h3 > Main Skills </h3>
- <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,jquery,mysql,vue,vite,webpack,bootstrap" />
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,php,laravel,jquery,mysql,vue,vite,webpack,bootstrap,tailwindcss" />
 
   <h3> Tools </h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,nginx,figma,idea" />
